@@ -1,9 +1,9 @@
 body {
-    background-color:floralwhite;  
+    background: color #ece9f0;;  
 }
 
 header {
-    background-color:mistyrose;
+    background-color: #ebc6cd;
     padding: 20px;
     text-align: center;
 }
@@ -48,28 +48,28 @@ nav ul {
 }
 
 a:link {
-  color:brown;
+  color: #b36b6e;
 }
 
 a:visited {
-  color:rosybrown;
+  color: black;
 }
 
 a:hover {
-  color:deeppink
+  color: #f7eef3
 }
 
 a:active {
-  color:floralwhite;
-  background-color:rosybrown;
+  color:#ece9f0;
+  background-color: #b36b6e;
 }
-
+#
 a:focus {
-  outline: 2px solid deeppink;  
+  outline: 2px solid #b36b6e;  
 }
 
 .project-card {
-  background-color: mistyrose;
+  background-color: #ebc6cd;
   border: 2px solid black ;
   border-radius: 25px;
   text-align: center;
@@ -98,6 +98,6 @@ a:focus {
 }
 
 hr {
-  border: 5px solid rosybrown ;
+  border: 5px solid #ebc6cd; 
   margin: 20px;
 }
